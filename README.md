@@ -1,3 +1,15 @@
+# ECommerce website made with Next JS
+H! This a ECommerce Website that i´ve built using NextJS.  
+__You can visit the website clicking [here!]([https://twitch-clone01.netlify.app/](https://ec-ommerce-next-js.vercel.app/))__
+
+![Screenshot (86)](https://user-images.githubusercontent.com/97960285/175025423-7dd59072-03db-4d54-8cc5-75ebb1331a18.png)
+![Screenshot (87)](https://user-images.githubusercontent.com/97960285/175025433-ca20df16-4a3b-48b5-844c-5eea38ebaa0c.png)
+![Screenshot (88)](https://user-images.githubusercontent.com/97960285/175025436-b47f5277-37d0-4ba0-87d1-d58ea3c3458f.png)
+![Screenshot (89)](https://user-images.githubusercontent.com/97960285/175025438-2c2ae3ea-0bbc-468f-83b3-483f353d878d.png)
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
